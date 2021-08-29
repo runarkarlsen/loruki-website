@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\loruki-website-master"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Runar1"
+  }
+}
