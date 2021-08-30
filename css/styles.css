@@ -267,8 +267,18 @@ skal stå over hverandre til høyre  */
   align-items: flex-start;
 }
 
+.docs-main .container li a {
+  color: #002240;
+  margin: 15px;
+}
+
+.docs-main .my-2 {
+  margin: 15px;
+}
+
 .docs-main nav li {
   font-size: 17px;
+  
   padding-bottom: 5px;
   margin-bottom: 5px;
   border-bottom: 1px #ccc solid;
