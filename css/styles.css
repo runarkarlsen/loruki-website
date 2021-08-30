@@ -180,10 +180,12 @@ owerflow overstyrer paddingen på 2 px på h2
 .stats-heading {
   max-width: 500px;
   margin: auto;
+  font-size: 1,5rem;
+  font-weight: normal;
 }
 
 .stats .grid h3 {
-  font-size: 35px;
+  font-size: 25px;
 }
 
 .stats .grid p {
@@ -192,6 +194,11 @@ owerflow overstyrer paddingen på 2 px på h2
 }
 
 /* Justerer på Cli seksjonen  */
+
+.cli h3 {
+  font-size: 1,6rem;
+  font-weight: normal;
+}
 
 .cli .grid {
   grid-template-columns: repeat(3, 1fr);
